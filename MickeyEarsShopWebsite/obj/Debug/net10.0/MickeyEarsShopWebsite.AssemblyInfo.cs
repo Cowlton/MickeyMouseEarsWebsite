@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MickeyEarsShopWebsite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddeb90b4a1c6372e5b58f330d9e06b135344ec80")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e280d7ae63670630b65a50383e43735fb2cdde4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MickeyEarsShopWebsite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MickeyEarsShopWebsite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
